@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="one">Number 1</string>
+    <string name="two">Number 2</string>
+    <string name="ok">OK</string>
+    <string name="pl">+</string>
+    <string name="mi">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="no1">Number 1</string>
+    <string name="no2">Number 2</string>
+    <string name="calc">calculator</string>
+    <string name="add">+</string>
+    <string name="substract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="imaged">Hellooo!!!</string>
+</resources>
